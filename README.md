@@ -1,1 +1,1 @@
-kmkjmkdkmlkmskmlkmaskml
+Hello! it's my first git readme.md file!
