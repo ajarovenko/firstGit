@@ -5,4 +5,4 @@ if(a == "yes"):
     print("Cool")
 else:
     print("not cool")
-time.sleep(200)
+time.sleep(3)
